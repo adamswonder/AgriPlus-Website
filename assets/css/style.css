@@ -127,6 +127,7 @@ a:hover:before {
     padding-top: 140px;
     width: 80%;
     margin: auto;
+    align-content: center;
 }
 
 .why {
@@ -135,8 +136,8 @@ a:hover:before {
 }
 
 .exist-img{
-    height: 350px;
-    width: 450px;
+    height: auto;
+    width: 900px;
     margin-left: 45px;
 
 }
