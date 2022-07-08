@@ -12,9 +12,10 @@ body {
     padding: 0;
     overflow-x: hidden;
     min-height: 100%;
-    font-family: 'Popp';
+    font-family: 'Poppins';
 
 }
+/* Navigation Bar */
 .logo {
     /* color: #ED661F; */
     color: white;
@@ -37,12 +38,31 @@ body {
 .nav-links > ul > li > a{
     color: white;
     list-style: none;
-    font-size: 17px;
+    font-size: 20px;
     text-decoration: none;
     padding: 15px;
     margin: right;
+    font-family: 'Inter';
 }
 .nav-links > ul {
     align-items:center;
     display: flex;
 }
+.nav-links > ul > li > a:hover {
+    
+}
+.btn {
+	border: none;
+	font-family: 'Inter';
+	font-size: 20px;
+    padding: 10px;
+    background-color: #ED661F;
+    color: white;
+	
+}
+/* #strbtn {
+	cursor: pointer;
+	margin-right: 130px;
+	border-radius: 5px;
+    padding: 8px 8px 8px 8px;
+} */
