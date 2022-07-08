@@ -109,15 +109,53 @@ a:hover:before {
     font-weight: 400;
     color: black;
 }
+
 .desc-img {
-	height: 500px;
-	width: 900px;
-	margin-left: 15px;
+    height: 500px;
+    width: 900px;
+    margin-left: 15px;
 
 }
-.desc-img > img {
-	width: inherit;
-	height: inherit;
+
+.desc-img>img {
+    width: inherit;
+    height: inherit;
 }
 
 /* Why we exist */
+.why-we-exist {
+    padding-top: 140px;
+    width: 80%;
+    margin: auto;
+}
+
+.why {
+    display: flex;
+    align-items: center;
+}
+
+.exist-img{
+    height: 350px;
+    width: 450px;
+    margin-left: 45px;
+
+}
+
+.exist-img>img {
+    width: inherit;
+    height: inherit;
+}
+
+.reason-text>h1 {
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.reason-text>p {
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 400;
+    color: black;
+}
