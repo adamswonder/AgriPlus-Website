@@ -15,12 +15,14 @@ body {
     font-family: 'Poppins';
 
 }
+
 /* Navigation Bar */
 .logo {
     /* color: #ED661F; */
     color: white;
     font-family: 'Inter';
 }
+
 .nav-bar {
     background-color: black;
     width: 100%;
@@ -35,7 +37,8 @@ body {
     display: flex;
     justify-content: space-between;
 }
-.nav-links > ul > li > a{
+
+.nav-links>ul>li>a {
     color: white;
     list-style: none;
     font-size: 20px;
@@ -44,20 +47,77 @@ body {
     margin: right;
     font-family: 'Inter';
 }
-.nav-links > ul {
-    align-items:center;
+
+.nav-links>ul {
+    align-items: center;
     display: flex;
+    list-style: none;
 }
-.nav-links > ul > li > a:hover {
-    
+
+.nav-links>ul>li>a:hover {
+    color: #ED661F;
+    font-weight: 600;
+
 }
+
+.nav-links>li.active a:before,
+a:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+    color: #ED661F;
+}
+
 .btn {
-	border: none;
-	font-family: 'Inter';
-	font-size: 20px;
+    border: none;
+    font-family: 'Inter';
+    font-size: 20px;
     padding: 10px;
     background-color: #ED661F;
     color: white;
-	
+
 }
-/*  */
+
+.btn:hover {
+    box-shadow: #0F298B;
+}
+
+/* slider section */
+.bgimg {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: left;
+    height: 900px;
+    background-image: url('/assets/images/image\ 1.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.htext1>h1 {
+    color: black;
+    font-size: 55px;
+    font-weight: 800;
+    font-family: 'Poppins';
+}
+
+.htext1>p {
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 400;
+    color: black;
+}
+.desc-img {
+	height: 500px;
+	width: 900px;
+	margin-left: 15px;
+
+}
+.desc-img > img {
+	width: inherit;
+	height: inherit;
+}
+
+/* Why we exist */
