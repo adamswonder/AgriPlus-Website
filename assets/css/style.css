@@ -160,3 +160,18 @@ a:hover:before {
     font-weight: 400;
     color: black;
 }
+/* Product categories */
+.categories {
+	margin: 90px auto 0;
+}
+.cat-title {
+	color: black;
+	font-size: 20px;
+	font-weight: 300;
+    text-align: center;
+    border-
+}
+
+.categories .paragraph {
+	text-align: center;
+}
