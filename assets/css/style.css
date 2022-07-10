@@ -587,3 +587,11 @@ footer * {
     padding: 5px;
     justify-content: space-evenly;
 }
+/* Copyright Information */
+.copyright{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
