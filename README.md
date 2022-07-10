@@ -1,7 +1,7 @@
 # AgriPlus-Website
 
 ##### By Adams Wonderboy 
-### It is a description of AgriPlus, an eCommerce platform.
+### It is a description of AgriPlus, an eCommerce platform where farmers meet their clients.
 
 ## Table of Content
 
@@ -13,7 +13,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is  a website that shows AgriPlus.It's an eCommerce platform for farmers to reach their customers countrywide. It contains all the information and testimonials of its existence and why customers should choose to transact with them.
+<p>This is  a website that shows AgriPlus, an eCommerce platform for farmers to reach their customers countrywide. It contains all the information and testimonials of its existence and why customers should choose to transact with them.
 </p>
 
 ## Overview
