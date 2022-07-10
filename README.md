@@ -8,9 +8,7 @@
 + [Description](#description)
 + [Installation Requirement](#Installation)
 + [Technology Used](#technology-used)
-+ [Reference](#reference)
 + [Licence](#licence)
-+ [Authors Info](#author-Info)
 
 ## Description
 <p>This is  a website that shows AgriPlus, an eCommerce platform for farmers to reach their customers countrywide. It contains all the information and testimonials of its existence and why customers should choose to transact with them.
